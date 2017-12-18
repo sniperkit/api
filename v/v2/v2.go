@@ -4,9 +4,9 @@ import (
 	"github.com/jinzhu/gorm"
 	"github.com/jpillora/go-ogle-analytics"
 	httpr "github.com/julienschmidt/httprouter"
-	"github.com/ok-borg/api/access"
-	"github.com/ok-borg/api/endpoints"
-	"github.com/ok-borg/api/v"
+	"github.com/sniperkit/api/access"
+	"github.com/sniperkit/api/endpoints"
+	"github.com/sniperkit/api/v"
 	"gopkg.in/olivere/elastic.v3"
 )
 

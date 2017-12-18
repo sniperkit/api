@@ -3,7 +3,7 @@ package ctxext
 import (
 	"context"
 
-	"github.com/ok-borg/api/domain"
+	"github.com/sniperkit/api/domain"
 )
 
 const (

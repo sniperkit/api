@@ -9,8 +9,8 @@ import (
 	"github.com/google/go-github/github"
 	"github.com/jinzhu/gorm"
 	"github.com/jpillora/go-ogle-analytics"
-	"github.com/ok-borg/api/domain"
 	"github.com/satori/go.uuid"
+	"github.com/sniperkit/api/domain"
 	"golang.org/x/oauth2"
 	"gopkg.in/olivere/elastic.v3"
 )

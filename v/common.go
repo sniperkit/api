@@ -12,8 +12,8 @@ import (
 	"github.com/jinzhu/gorm"
 	"github.com/jpillora/go-ogle-analytics"
 	httpr "github.com/julienschmidt/httprouter"
-	"github.com/ok-borg/api/ctxext"
-	"github.com/ok-borg/api/endpoints"
+	"github.com/sniperkit/api/ctxext"
+	"github.com/sniperkit/api/endpoints"
 	"gopkg.in/olivere/elastic.v3"
 )
 

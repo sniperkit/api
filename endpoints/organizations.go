@@ -7,8 +7,8 @@ import (
 
 	log "github.com/cihub/seelog"
 	"github.com/jinzhu/gorm"
-	"github.com/ok-borg/api/domain"
 	"github.com/satori/go.uuid"
+	"github.com/sniperkit/api/domain"
 )
 
 func (e Endpoints) CreateOrganization(

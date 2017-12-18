@@ -10,8 +10,8 @@ import (
 	log "github.com/cihub/seelog"
 	"github.com/jinzhu/gorm"
 	httpr "github.com/julienschmidt/httprouter"
-	"github.com/ok-borg/api/ctxext"
-	"github.com/ok-borg/api/domain"
+	"github.com/sniperkit/api/ctxext"
+	"github.com/sniperkit/api/domain"
 )
 
 type AccessKinds int

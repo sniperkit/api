@@ -10,9 +10,9 @@ import (
 
 	log "github.com/cihub/seelog"
 	httpr "github.com/julienschmidt/httprouter"
-	"github.com/ok-borg/api/endpoints"
-	"github.com/ok-borg/api/types"
-	"github.com/ok-borg/api/v"
+	"github.com/sniperkit/api/endpoints"
+	"github.com/sniperkit/api/types"
+	"github.com/sniperkit/api/v"
 )
 
 func q(w http.ResponseWriter, r *http.Request, p httpr.Params) {
